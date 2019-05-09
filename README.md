@@ -18,8 +18,10 @@ install.packages("corrplot")
 
 ## Datasets Info
  **difficulty.csv**
+
  	This dataset contains the ratings of ecpected difficulty for each topic.
- 	- Variables:
+ 	
+ 	* Variables:
  		- name
  		- pred.dif
  		- nlp.dif
@@ -29,8 +31,10 @@ install.packages("corrplot")
  		- loop.dif
 
  **interest.csv**
+
  	This dataset contains the ratings of student's interests for each topic.
- 	- Variables:
+
+ 	* Variables:
  		- name
  		- pred.int
  		- nlp.int
