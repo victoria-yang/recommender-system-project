@@ -20,7 +20,7 @@ install.packages("corrplot")
  **difficulty.csv**
 
  	This dataset contains the ratings of ecpected difficulty for each topic.
- 	
+
  	* Variables:
  		- name
  		- pred.dif
@@ -45,6 +45,16 @@ install.packages("corrplot")
 
 
 ## Procedure
+
+**Building collaborative filter**
+
+* Generate a user-based similarity matrix for interest data based on cosine similarity using the ratings the class gave each unit.
+
+* Find out which students are most similar to you.
+
+* Then create a unit-based, rather than student-based similarity matrix for difficulty
+
+* Create a composite measure from interest and difficulty (Principal component analysis )
 
 
 
