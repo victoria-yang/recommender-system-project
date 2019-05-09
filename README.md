@@ -3,7 +3,7 @@
 <img width = "600" src="https://github.com/victoria-yang/recommender-system-project/blob/master/Int_dif.png">
 
 ### Description
-In HUDK4051 there are six units, this recommender system will use the student's response in a survey, which includes ratings of these units in terms of both interest and difficulty to produce individual suggestions about what unit to attempt next.
+In a course there are six units, this recommender system will use the student's response in a survey, which includes ratings of these units in terms of both interest and difficulty to produce individual suggestions about what unit to attempt next.
 
 
 ### Prerequisites
